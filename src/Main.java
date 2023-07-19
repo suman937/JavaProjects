@@ -16,6 +16,7 @@ public class Main {
 		System.out.println(mycar2.model);
 		System.out.println(mycar2.make);
 		System.out.println("Git commit test");
+		system.out.println("testing for the gitclone");
 		
 //		mycar.drive();
 //		mycar.brake();
