@@ -11,5 +11,6 @@ public class Car {
 	}
 	void brake() {
 		System.out.println("you press on the break");
+		System.out.println("Hello");
 	}
 }
