@@ -12,8 +12,8 @@ public class Car {
 	void brake() {
 		System.out.println("you press on the break");
 		System.out.println("keep pressing on the break!");
-		System.out.println("testing for third  time");
-		System.out.println("testing to pull request from git terminal");
+		
+		
 	
 		System.out.println("Hello");
 	}
